@@ -1,0 +1,5 @@
+You can set up collections of docsets and easily switch between them using search profiles. For example, let's say you do both macOS and Web development, you could set up a "macOS" search profile which automatically gets activated when Xcode launches and a "Web" search profile which automatically gets activated when Sublime Text launches.
+
+Search profiles persist between Dash launches and searches. If you explicitly do not need persistence, use Docset Keywords.
+
+You can find the search profile settings by clicking on the icon of the main search field
